@@ -1,4 +1,8 @@
-# Getting Started
+# Getting Started with Github
+
+Recommended to read the official documentation - https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github
+
+# Getting Started with Open Source Projects
 
 Getting started with open-source can be a difficult task, not only because we are being introduced to some new technologies, but also because most of us have never worked in a collaborative environment before. Being able to work in a collaborative environment is one of the most important skills anyone could acquire, not only in the coding and programming area, but in life.
 
@@ -8,9 +12,9 @@ It may appear a very challenging and overwhelming task at first, but it is, in f
 
 Providing the opportunity for you to flex your developer muscles, whilst working within a team of developers. Gaining valuable skills, employers are always seeking, such as:
 
-Communication and collaboration - Being able to work in a team and communicating effectively is a very important skill
-Github and source control - In these projects you will have the opportunity to understand why branching is important along with other key github skills.
-New stacks and technologies - Each project is likely to use slightly varying stacks, providing the opportunity to jump into something new
+- Communication and collaboration - Being able to work in a team and communicating effectively is a very important skill
+- Github and source control - In these projects you will have the opportunity to understand why branching is important along with other key github skills.
+- New stacks and technologies - Each project is likely to use slightly varying stacks, providing the opportunity to jump into something new
 
 # How You Benefit
 
@@ -23,7 +27,6 @@ Along with learning new skills, you will also gain experience on projects you ca
 
 Joining a project is pretty simple, checkout the current projects and find one you would like to participate in. Check out the project README in its repo as it will have a guide on how to get started!
 
-Please note: Whilst working on any project in the Zero To Mastery community, you must adhere to our code of conduct, which can be found here
 
 ## Option 2: Create a project
 
@@ -34,17 +37,6 @@ We are always on the look out for new and exciting project to add to Zero to Mas
 - A Repository will be created and the project will be announced in #current-project channel in our Discord server and featured during an upcoming announcement by Andrei
 - If the project has enough demand, a dedicated channel will be created to accomodate discussions.
 
-### Rules
-
-In order to ensure that students hard work and time are not exploited, there are a couple of rules that will need to be followed for any project:
-
-The project repo and discussion channels, will be hosted under the Zero To Mastery Github organization/Discord Server
-The project must use the Creative Commons Attribution 4.0 International License
-The project must contain and adhere to the code of conduct guide found here
-
-# Current Projects
-
-You can view all current projects here or you can view the specific #current-projects channel in our Discord Community that gives you a little more detail on each project.
 
 # What is open source?
 
